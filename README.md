@@ -1,3 +1,5 @@
+## Student Name : Inderjot kaur Gill
+## Student Number : 90541099062
 # Emoji Gallery
 
 This project is a simple web application that displays a gallery of emoji characters. The gallery is responsive and adjusts its layout based on the screen size. Each emoji character is accompanied by its corresponding decimal and hexadecimal references.
